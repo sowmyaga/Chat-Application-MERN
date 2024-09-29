@@ -1,0 +1,28 @@
+{
+  "name": "chat-application-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowmyaga/Chat-Application-MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowmyaga/Chat-Application-MERN/issues"
+  },
+  "homepage": "https://github.com/sowmyaga/Chat-Application-MERN#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongodb": "4.1",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
